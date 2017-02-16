@@ -1,0 +1,57 @@
+0 ~~local/
+	a. Alice's local files. 
+	b. Acts like the 'bag' of the user. Accessible no matter where Alice currently is. 
+	c. Likely will be pushed onto a stack so ../ should work. Will include several apps (#jump#, #save#, #text#), and notes (keylist, note2bob.txt)
+	d. 
+
+1 Efrion
+	a. The planet Alice is from. 
+	b. There are 2 known users of [PROGRAM NAME]
+	c. Within efrion, user can #jump# between all .efrion hosts.
+	   Efrion itself is connected to Zuilia.
+	d. 2 users, 1 planet
+
+1.1 alice.efrion
+	a. Alice's computer
+	b. The starting point of the player's journey. 
+	c. Link to public/, private/, and local/ (NOTE. local will always follow the user and be accessible from any position.)
+	d. 3
+
+1.1.1 alice.efrion:public/
+	a. Alice's public files
+	b. Empty because Alice just installed the system.
+	c. Link to ../ and local/, Access to #newfile#
+	d. 2
+
+1.1.2 alice.efrion:private/
+	a. Alice's private files
+	b. Includes the config file, and file with Alice's user information.
+	c. Link to ../ and local/, Access to Alice's password and other information.
+	d. 2
+
+1.2 craig.efrion
+	a. Craig's computer 
+	b. Craig will act as a tutorial. A benevolent user thrilled to hear that Alice has started using the program. 
+	c. Link to public/ private/ and local/
+	d. 3
+
+1.2.1 craig.efrion:public/
+	a. Craig's public files
+	b. A few random files including a tutorial guide that Craig teaches alice how to copy. 
+	c. Link to ../ and local/, Access to #newfile#
+	d. 2
+
+1.2.2 craig.efrion:private/
+	a. Craig's private files
+	b. Craig's config file, and file with Craig's user information.
+	c. Link to ../ and local/, Access to Craig's password.
+	d. 2
+
+2 Zuilia
+	a. The planet Alice must relay through.
+	b. There are 2 known users on Zuilia. 
+	c. User can #jump# between all .zuilia hosts. 
+	   Zuilia is connected to Efrion and Droietera.
+	d. 2 users, 2 planets
+
+	
