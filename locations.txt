@@ -1,5 +1,5 @@
-a.  The location's name / short description
-b.  The location's long / verbose description
+a.  The location’s name / short description
+b.  The location’s long / verbose description
 c.  Any items that are initially at that location.
 d.  The numbers of the locations that can be reached by going n, s, e, w, u, d from this location, using -1 for any directions the adventurer cannot go.
 
@@ -8,54 +8,52 @@ d.  The numbers of the locations that can be reached by going n, s, e, w, u, d f
         text.exe
         jump.exe
     notes/
-	contacts
-        keylist
+        keylist.txt
         note2bob.txt
     save
 
 
 @alice.efrion
-    ./public/
-    ./private/
+    ./public
+    ./private
         alice.txt
 
 @craig.efrion
-    ./public/
-	keyhint/
-    ./private/
+    ./public
+    ./private
         craig.txt
 
 @dan.zuilia
-    ./public/
-    ./private/
+    ./public
+    ./private
         dan.txt
 
 @oscar.zuilia
-    ./public/
-    ./private/
+    ./public
+    ./private
         oscar.txt
 
 @eve.droietera
-    ./public/
-    ./private/
+    ./public
+    ./private
         eve.txt
 
 @frank.droietera
-    ./public/
-    ./private/
+    ./public
+    ./private
         frank.txt
 
 @walter.astara
-    ./public/
-    ./private/
+    ./public
+    ./private
         walter.txt
 
 @mallet.astara
-    ./public/
-    ./private/
+    ./public
+    ./private
         mallet.txt
 
 @bob.earth
-    ./public/
-    ./private/
+    ./public
+    ./private
         bob.txt

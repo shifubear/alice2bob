@@ -44,7 +44,7 @@
 1.2.2 craig.efrion:private/
 	a. Craig's private files
 	b. Craig's config file, and file with Craig's user information.
-	c. Link to ../ and local/, Access to Craig's password.
+	c. Key to Zuilia. Link to ../ and local/, Access to Craig's password.
 	d. 2
 
 2 Zuilia
@@ -54,4 +54,134 @@
 	   Zuilia is connected to Efrion and Droietera.
 	d. 2 users, 2 planets
 
-	
+2.1 oscar.zuilia
+    a. Oscar's computer
+    b. Oscar is a fake account of Mallet, and he gives the user #keygenerator# and teaches how to use it. Oscar's machine 'crashes' after giving the key, sending the player back to Zuilia. 
+    c. Player receives #keygenerator#. Link to local/
+    d. 1
+
+2.2 dan.zuilia
+    a. Dan's computer
+    b. Dan is the first user the player 'exploits' by trying the keygenerator. 
+       By doing this, the player gains access to Dan's key, which can be used to
+       find access to the next planet.
+    c. Link to public/, private/, and local/. 
+    d. 3
+
+2.2.1 dan.zuilia:public/
+    a. Dan's public files. 
+    b. User can find out that he is a diplomat, and travels
+       frequently to Droietera, the next planet to go to. 
+    c. Link to ../, local/. A password hint.
+    d. 2
+
+2.2.2 dan.zuilia:private/
+    a. Dan's private files. 
+    b. Many files with private information about Dan.
+    c. Link to ../, local/. Dan's config file, info to generate key to go to Droitera. 
+    d. 2
+
+3 Droietera
+    a. The planet Alice must journey through 
+    b. There are 2 known users on Droietera.
+    c. User can #jump# between all .droietera hosts.
+       Droietera is connected to Zuilia and Astara.
+    d. 2 users, 2 planets
+
+3.1 eve.droietera
+    a. Eve's computer
+    b. Eve works with Mallet. Her private files have information about him and 
+       his plans. 
+    c. Link to public/, private/, and local/.  
+    d. 3
+
+3.1.1 eve.droietera:public/
+    a. Eve's public files. 
+    b. Nothing special in here but a password hint.
+    c. Link to ../, local/. A password hint.
+    d. 2
+
+3.1.2 eve.droietera:private/
+    a. Eve's private files.
+    b. Information about Mallet and his plans. 
+    c. Link to ../, local/. Information about Mallet.
+    d. 2
+
+3.2 frank.droietera
+    a. Frank's computer
+    b. Frank has the key to the next planet. He is a diplomat.
+    c. Link to public/, private/, and local/.
+    d. 3
+
+3.2.1 frank.droietera:public/
+    a. Frank's public files. 
+    b. User finds that he is a diplomat. Finds possible information about Astara.
+    c. Link to ../, local/. A password hint. 
+    d. 2
+
+3.2.2 frank.droietera:private/
+    a. Frank's private files. 
+    b. Many files with private information about Frank.
+    c. Link to ../, local/. Information to generate key to go to Astara. 
+
+4 Astara
+    a. The planet Astara must journey through.
+    b. There are 2 known users on Astara... One of them is Mallet.
+    c. User can #jump# between all .astara hosts.
+       Astara is connected to droietera and Earth.
+    d. 2 users, 2 planets. 
+
+4.1 walter.astara
+    a. Walter's computer.
+    b. Walter has the key to Earth, but wants player to do something about Mallet.
+       Cooperates with user to defeat Mallet. Walter is a developer of the new 
+       system and gives the player #weapon# to disable Mallet's cpu. 
+    c. Link to public/, private/, and local/. Receive #weapon.
+    d. 3
+
+4.1.1 walter.astara:public/
+    a. Walter's private files. 
+    b. There is the information of Walter. 
+    c. Link to ../, and local/. The files tell how to make Walter's key.
+    d. 2
+
+4.1.2 walter.astara:private/
+    a. Walter's private files. 
+    b. Many files about Mallet. A password hint for Mallet's key. 
+    c. Link to ../, and local/. There is a hint to find Mallet's key.
+    d. 2
+
+4.2 mallet.astara
+    a. Mallet's computer.
+    b. Mallet has the #masterkey# to go to all planets. He is also planning to use
+       the new system to hack into people's brains and take over the world.
+    c. Link to public/, private/, and local/. 
+    d. 3
+
+4.2.1 mallet.astara:public/ 
+    a. Mallet's public files. 
+    b. Many documents related to the new system. Mallet has been doing a lot of 
+       research. 
+    c. Link to ../, local/. 
+    d. 2
+
+4.2.2 mallet.astara:private/
+    a. Mallet's private files.
+    b. Private documents about how he is planning to go about destroying things. 
+       These files become proof, and once confirmed by Walter, player has permission
+       to deactivate Mallet's computer. 
+    c. Link to ../, local/. 
+    d. 2
+
+5 Earth
+    a. Bob's home... 
+    b. The final destination of the game.
+    c. User should have #masterkey# now to jump to any planet they want.
+    d. 1 user
+
+5.1 bob.earth
+    a. Bob's computer.
+    b. This is where the player wants to submit the letter to Bob.
+    c. Probably none.
+    d. none.  
+

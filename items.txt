@@ -1,16 +1,96 @@
 text.exe
+    a. Located in /local/ the whole game.
+    b. Is used for talking with other users.
+
 jump.exe
+    a. Receive from Craig in the beginning. 
+    b. Is used to jump between users and planets.
+
 keygenerator.exe
+    a. Receive from Dan.
+    b. Is used to generate keys of users. 
+        - To generate a key, player must know the password (by hearing from
+          other user), or have access to a user's configfile.
+
 alice_key
+    a. Located in /local/ the whole game.
+    b. Is used to access Alice's private files.
+
 craig_key
+    a. Created using the keygenerator.
+    b. Is used to access Craig's private files.
+
 dan_key
+    a. Created using the keygenerator.
+    b. Is used to access Dan's private files. 
+
 oscar_key
+    a. Created using the keygenerator. 
+    b. Is used to access Oscar's private files.
+
 eve_key
+    a. Created using the keygenerator.
+    b. Is used to access Eve's private files.
+
 frank_key
+    a. Created using the keygenerator. 
+    b. Is used to access Frank's private files.
+
 walter_key
+    a. Created using the keygenerator.
+    b. Is used to access Walter's private files.
+
 mallet_key
+    a. Created using the keygenerator. 
+    b. Is used to access Mallet's private files.
+
 bob_key
+    a. Created using the keygenerator.
+    b. Is used to access Bob's private files.
+
 note2bob.txt
+    a. Owned from the beginning after the tutorial.
+    b. Giving this to Bob ends the game.
+
 craigs_tutorial.txt
+    a. Receive from Craig.
+    b. Has list of basic controls and objectives of the game. Map of which planets 
+       to go to etc.
+
 planet_list.txt
+    a. Receive from Craig. 
+    b. List of planets user needs to journey through to get to Earth.
+
+[configfile for each user]
+    a. Is located in each user's private directory. 
+    b. Information in this file is needed to complete a user's key. 
+
+save.exe
+    a. Located in /local/ the whole game.
+    b. Used to save current progress.
+
+weapon.exe
+    a. Receive from Walter after providing proof of Mallet's evil. 
+    b. Activate in Mallet to deactivate his account.
+
+#masterkey#
+    a. Receive from Walter after defeating Mallet.
+    b. If player owns this, player can go to any planet. 
+
+efrion_key
+    a. Owned from the beginning
+    b. If owned, can jump to Efrion from neighboring planets.
+
+zuilia_key
+    a. Receive from craig.
+    b. If owned, can jump to Zuilia from neighboring planets.
+
+droietera_key
+    a. Receive from Dan.
+    b. If owned, can jump to Droietera from neighboring planets.
+
+astara_key
+    a. Receive from Frank
+    b. If owned, can jump to Astara from neighboring planets.
+
 
